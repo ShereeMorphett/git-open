@@ -1,2 +1,2 @@
-# giit-open
+# git-open
 Tampere git open course
